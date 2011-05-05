@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Buche>
+  <buca>
+  	<nome>buca 1</nome>
+	<metri>294/264</metri>
+	<latitudineP>46.4740</latitudineP>
+	<longitudineP>10.3622</longitudineP>
+	<par>4</par>
+	<latitudineBuca>46.4720</latitudineBuca>
+	<longitudineBuca>10.3640</longitudineBuca>
+	<testo>
+		Leggero dog-leg a destra, delicato per la pendenza trasversale del fairway verso destra.
+Ultimi 80 metri in discesa con ingresso al green ben protetto da bunkers frontali e laterali.
+	</testo>
+  </buca>
+  <buca>
+  	<nome>buca 2</nome>
+	<metri>267/255</metri>
+	<latitudineP>46.4722</latitudineP>
+	<longitudineP>10.3644</longitudineP>
+	<par>4</par>
+	<latitudineBuca>46.4745</latitudineBuca>
+	<longitudineBuca>10.3637</longitudineBuca>
+	<testo>
+		Par 4 corto ma in salita con fuori limite lungo la destra e bunker laterali nella zona d' atterraggio del tee-shot. 
+Green in leggera salita con due profondi bunker che proteggono l'ingresso all green.
+	</testo>
+  </buca>
+  <buca>
+  	<nome>buca 3</nome>
+	<metri>109/95</metri>
+	<latitudineP>46.4746</latitudineP>
+	<longitudineP>10.3624</longitudineP>
+	<par>3</par>
+	<latitudineBuca>46.4748</latitudineBuca>
+	<longitudineBuca>10.3610</longitudineBuca>
+	<testo>Par 3 corto e in discesa ma molto delicato.
+Il colpo  è reso difficle dall'ostacolo d'acqua di fronte al green e dal fuori limite subito dopo il green.
+La buca si gioca quasi sempre con una forte esposizione al vento.
+	</testo>
+  </buca>
+  <buca>
+  	<nome>buca 4</nome>
+	<metri>151/137</metri>
+	<latitudineP>46.4738</latitudineP>
+	<longitudineP>10.3600</longitudineP>
+	<par>3</par>
+	<latitudineBuca>46.4726</latitudineBuca>
+	<longitudineBuca>10.3601	</longitudineBuca>
+	<testo>
+		Buca in discesa molto impegnativa. Fuori limite lungo tutta la parte destra con  due profodi bunkers che difendono il green. 
+Davanti e dietro il green rough molto impegnativo che rende difficile l'approccio.
+	</testo>
+  </buca>
+  <buca>
+  	<nome>buca 5</nome>
+	<metri>244/229</metri>
+	<latitudineP>46.4724</latitudineP>
+	<longitudineP>10.3603</longitudineP>
+	<par>4</par>
+	<latitudineBuca>46.4704</latitudineBuca>
+	<longitudineBuca>10.3606</longitudineBuca>
+	<testo>
+		Par 4 in leggera discesa con un ostacolo d'acqua frontale posizionato appena prima del green.
+Fuori limite lungo tutta la parte destra della buca e sulla destra e dietro al green.
+Il green è delicato con un gradino che rende difficile attaccare la bandiera. 
+	</testo>
+  </buca>
+  <buca>
+  	<nome>buca 6</nome>
+	<metri>281/258</metri>
+	<latitudineP>46.4705</latitudineP>
+	<longitudineP>10.3611</longitudineP>
+	<par>4</par>
+	<latitudineBuca>46.4730</latitudineBuca>
+	<longitudineBuca>10.3612</longitudineBuca>
+	<testo>
+		Par 4 abbastanza lungo con un lago che difende l'ingresso al green.
+La buca non presenta particolari difficoltà ma su entrambi i lati il rough è molto alto e ostacola il colpo al green. 
+	</testo>
+  </buca>
+    <buca>
+  	<nome>buca 7</nome>
+	<metri>130/126</metri>
+	<latitudineP>46.4722</latitudineP>
+	<longitudineP>10.3606</longitudineP>
+	<par>3</par>
+	<latitudineBuca>46.4735</latitudineBuca>
+	<longitudineBuca>10.3604</longitudineBuca>
+	<testo>
+		Buca par 3 molto impegnativa. Il primo colpo è in salita con un rough molto alto prima del green che blocca la palla.
+Il green è delicato con una forte pendenza che rende difficile l'eventuale approccio ed il putt. 
+	</testo>
+  </buca>
+  <buca>
+  	<nome>buca 8</nome>
+	<metri>233</metri>
+	<latitudineP>46.4737</latitudineP>
+	<longitudineP>10.3609</longitudineP>
+	<par>4</par>
+	<latitudineBuca>46.4715</latitudineBuca>
+	<longitudineBuca>10.36335</longitudineBuca>
+	<testo>
+	Par 4 di più di 300 mt con partenza dall'alto e colpo al green in salita.
+Sul fianco destro la buca è delimitata da fuori limite e nella zona di atterraggio sulla destra c'è un grosso bunker.
+Sulla sinistra una costa con un rough molto alto complica l'approccio al green.
+Il green è difeso da due bunker frontali molto profondi e presenta forti pendenze che rendono impegnativi i putt da lontano. 
+	</testo>
+  </buca>
+  <buca>
+  	<nome>buca 9</nome>
+	<metri>330</metri>
+	<latitudineP>46.4716</latitudineP>
+	<longitudineP>10.3636</longitudineP>
+	<par>4</par>
+	<latitudineBuca>46.4740</latitudineBuca>
+	<longitudineBuca>10.3613</longitudineBuca>
+	<testo>
+		Con i suoi 330 mt è la buca più lunga del percorso.
+Il colpo dal tee non è particolarmente difficle ma un grosso bunker sulla destra obbliga a non forzare troppo il tee shot.
+Colpo al green piuttosto delicato con due profondi bunker che coprono quasi per intero l'ingresso al green. 
+	</testo>
+  </buca>
+</Buche>
