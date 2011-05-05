@@ -3,7 +3,7 @@ package com.caspa.Golfmap.client;
 
 //import java.util.ArrayList;
 
-
+//test
 import com.google.gwt.http.client.Request;
 import com.google.gwt.http.client.RequestBuilder;
 import com.google.gwt.http.client.RequestCallback;
