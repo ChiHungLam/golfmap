@@ -53,6 +53,9 @@ public class GolfMap implements EntryPoint {
   
   
   
+  /**
+   * @wbp.parser.entryPoint
+   */
   public void buildUi(){
 	  	
 	    HorizontalPanel mainPanel = new HorizontalPanel();
